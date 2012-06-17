@@ -1,0 +1,4 @@
+
+
+start rmiregistry
+pause.
